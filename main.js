@@ -7,7 +7,7 @@ let errMsg = document.getElementById('errMsg')
 
 
 // initial value
-let api = 'http://openlibrary.org/search.json?q='
+let api = 'https://openlibrary.org/search.json?q='
 
 // add eventListner
 searchButton.addEventListener('click',() =>{
